@@ -8,11 +8,26 @@
 	margin-bottom: 30px;
 }
 
-.row-space-blue {
-    margin-bottom: 30px;
+.row-home {
+    margin-bottom: 60px;
+}
+
+.homepage-top {
     background-color: #005ea5;
     color: white;
-    margin: 0;
+    height: 200px;
+    margin-left: -50%;
+    margin-right: -50%;
+    margin-top: -10px;
+    margin-bottom: 60px;
+    padding: 30px;
+    padding-left: 0;
+}
+
+.header-inner {
+    max-width: 960px;
+    align: center;
+    margin: 0 auto;
 }
 
 .heading-xlarge {
@@ -22,6 +37,10 @@
 .version {
 	margin-top: 30px;
 	float: right;
+}
+
+.heading-home {
+    margin-top: 0;
 }
 
 a {
